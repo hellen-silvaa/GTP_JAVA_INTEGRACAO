@@ -1,6 +1,7 @@
 # GTP_JAVA_INTEGRACAO
 
 
+
 Desenvolvendo uma aplicação Java integrada com a API da OpenAI
 
 Utilizando bibliotecas Java que facilitam a integração com a API
